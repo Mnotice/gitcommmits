@@ -1,0 +1,15 @@
+C:\Program Files\VsCodeProjects\newProjects\newProjects\TestProject1\bin\Debug\net7.0\TestProject1.exe
+C:\Program Files\VsCodeProjects\newProjects\newProjects\TestProject1\bin\Debug\net7.0\TestProject1.deps.json
+C:\Program Files\VsCodeProjects\newProjects\newProjects\TestProject1\bin\Debug\net7.0\TestProject1.runtimeconfig.json
+C:\Program Files\VsCodeProjects\newProjects\newProjects\TestProject1\bin\Debug\net7.0\TestProject1.dll
+C:\Program Files\VsCodeProjects\newProjects\newProjects\TestProject1\bin\Debug\net7.0\TestProject1.pdb
+C:\Program Files\VsCodeProjects\newProjects\newProjects\TestProject1\obj\Debug\net7.0\TestProject1.csproj.AssemblyReference.cache
+C:\Program Files\VsCodeProjects\newProjects\newProjects\TestProject1\obj\Debug\net7.0\TestProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files\VsCodeProjects\newProjects\newProjects\TestProject1\obj\Debug\net7.0\TestProject1.AssemblyInfoInputs.cache
+C:\Program Files\VsCodeProjects\newProjects\newProjects\TestProject1\obj\Debug\net7.0\TestProject1.AssemblyInfo.cs
+C:\Program Files\VsCodeProjects\newProjects\newProjects\TestProject1\obj\Debug\net7.0\TestProject1.csproj.CoreCompileInputs.cache
+C:\Program Files\VsCodeProjects\newProjects\newProjects\TestProject1\obj\Debug\net7.0\TestProject1.dll
+C:\Program Files\VsCodeProjects\newProjects\newProjects\TestProject1\obj\Debug\net7.0\refint\TestProject1.dll
+C:\Program Files\VsCodeProjects\newProjects\newProjects\TestProject1\obj\Debug\net7.0\TestProject1.pdb
+C:\Program Files\VsCodeProjects\newProjects\newProjects\TestProject1\obj\Debug\net7.0\TestProject1.genruntimeconfig.cache
+C:\Program Files\VsCodeProjects\newProjects\newProjects\TestProject1\obj\Debug\net7.0\ref\TestProject1.dll
